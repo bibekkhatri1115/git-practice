@@ -10,7 +10,6 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
     scroll-snap-align: start;
 }
 
@@ -28,6 +27,6 @@ section{
     background: rgb(211, 79, 79);
 }
 
-.three{
+.kiswor{
     background: rgb(67, 91, 175);
 }
