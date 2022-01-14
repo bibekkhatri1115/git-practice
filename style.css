@@ -10,7 +10,6 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
     scroll-snap-align: start;
 }
 
@@ -30,5 +29,4 @@ section{
 
 .kiswor{
     background: rgb(67, 91, 175);
-    
 }
